@@ -1,1 +1,67 @@
-$file:/workspace/publish_staging/dual-residual-gate3-parity/g4_edge/edge_results.json
+{
+ "total": 1400,
+ "agree": 639,
+ "by_N": {
+  "64": [
+   98,
+   200
+  ],
+  "256": [
+   95,
+   200
+  ],
+  "513": [
+   101,
+   200
+  ],
+  "514": [
+   98,
+   200
+  ],
+  "1024": [
+   92,
+   200
+  ],
+  "1025": [
+   86,
+   200
+  ],
+  "4096": [
+   69,
+   200
+  ]
+ },
+ "by_kind": {
+  "iid": [
+   194,
+   280
+  ],
+  "walk": [
+   74,
+   280
+  ],
+  "tie_heavy": [
+   7,
+   280
+  ],
+  "sine_noise": [
+   84,
+   280
+  ],
+  "no_ties_monotone": [
+   280,
+   280
+  ]
+ },
+ "confusion_core_to_ref": {
+  "None->None": 478,
+  "None->T1": 273,
+  "None->T2": 8,
+  "None->T3": 303,
+  "T1->T1": 3,
+  "T2->T1": 38,
+  "T2->T3": 52,
+  "T3->T1": 87,
+  "T3->T3": 158
+ }
+}

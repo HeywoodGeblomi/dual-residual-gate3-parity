@@ -1,1 +1,1 @@
-$file:/workspace/publish_staging/dual-residual-gate3-parity/ds1_v1_exploratory/NOTE.md
+EXPLORATORY rerun of Job 3 P2 mechanism on dataset_v1 labels (DS1 only, DS2 unread). Not a second scoring; Gate 3 verdict unchanged.
